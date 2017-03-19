@@ -94,6 +94,13 @@ apt-get install mysql-workbench
 
 apt-get install arc-theme
 
+# MYSQL Database and Web 
+
+apt-get install mysql-server
+apt-get install apache2
+apt-get install php7 or php7.0-cli
+apt-get install php-mysql // For mysqli extensions
+
 # Programmers Stuffs
 
 Java JDK 8 PPA
